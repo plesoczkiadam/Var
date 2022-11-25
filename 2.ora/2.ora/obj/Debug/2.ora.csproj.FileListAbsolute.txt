@@ -1,0 +1,16 @@
+C:\Users\Ádám\Desktop\óra c #\2.ora\2.ora\bin\Debug\2.ora.exe.config
+C:\Users\Ádám\Desktop\óra c #\2.ora\2.ora\bin\Debug\2.ora.exe
+C:\Users\Ádám\Desktop\óra c #\2.ora\2.ora\bin\Debug\2.ora.pdb
+C:\Users\Ádám\Desktop\óra c #\2.ora\2.ora\obj\Debug\2.ora.csproj.AssemblyReference.cache
+C:\Users\Ádám\Desktop\óra c #\2.ora\2.ora\obj\Debug\2.ora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ádám\Desktop\óra c #\2.ora\2.ora\obj\Debug\2.ora.csproj.CoreCompileInputs.cache
+C:\Users\Ádám\Desktop\óra c #\2.ora\2.ora\obj\Debug\2.ora.exe
+C:\Users\Ádám\Desktop\óra c #\2.ora\2.ora\obj\Debug\2.ora.pdb
+C:\Users\Ádám\OneDrive\Asztali gép\óra c #\2.ora\2.ora\bin\Debug\2.ora.exe.config
+C:\Users\Ádám\OneDrive\Asztali gép\óra c #\2.ora\2.ora\bin\Debug\2.ora.exe
+C:\Users\Ádám\OneDrive\Asztali gép\óra c #\2.ora\2.ora\bin\Debug\2.ora.pdb
+C:\Users\Ádám\OneDrive\Asztali gép\óra c #\2.ora\2.ora\obj\Debug\2.ora.csproj.AssemblyReference.cache
+C:\Users\Ádám\OneDrive\Asztali gép\óra c #\2.ora\2.ora\obj\Debug\2.ora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ádám\OneDrive\Asztali gép\óra c #\2.ora\2.ora\obj\Debug\2.ora.csproj.CoreCompileInputs.cache
+C:\Users\Ádám\OneDrive\Asztali gép\óra c #\2.ora\2.ora\obj\Debug\2.ora.exe
+C:\Users\Ádám\OneDrive\Asztali gép\óra c #\2.ora\2.ora\obj\Debug\2.ora.pdb
